@@ -183,7 +183,7 @@
                     android:id="@+id/tvStudentInfo"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Họ tên: Phan Thanh Hoàng\nMSSV: 21101234\nLớp: DHKTPM15A"
+                    android:text="Họ tên: Phan Thanh Hoàng\nMSSV: 23115141122105\nLớp: 23SK1"
                     android:textSize="13sp"
                     android:textColor="#333333"
                     android:gravity="center" />
